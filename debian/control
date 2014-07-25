@@ -18,4 +18,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
-Description: /etc/network/interfaces for Whonix-Workstation
+Description: Network Configuration for Whonix-Workstation
+ Includes /etc/network/interfaces for Whonix-Workstation.
+ .
+ Sets up an internal one eth0.
+ .
+ Loads Whonix's firewall using pre-up hook. Fails closed.
