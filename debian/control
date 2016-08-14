@@ -21,3 +21,5 @@ Description: Network Configuration for Whonix-Workstation
  Includes /etc/network/interfaces for Whonix-Workstation.
  .
  Sets up an internal network interface eth0.
+ .
+ Currently relevant for Non-Qubes-Whonix only.
