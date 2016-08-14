@@ -2,9 +2,7 @@
 
 Includes /etc/network/interfaces for Whonix-Workstation.
 
-Sets up an internal one eth0.
-
-Loads Whonix's firewall using pre-up hook. Fails closed.
+Sets up an internal network interface eth0.
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
