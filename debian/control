@@ -14,8 +14,7 @@ Standards-Version: 3.9.6
 
 Package: whonix-ws-network-conf
 Architecture: all
-## Can not depend on ifupdown, netbase due to conflicts with chroot.
-Depends: ${misc:Depends}
+Depends: ifupdown, netbase, ${misc:Depends}
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
 Description: Network Configuration for Whonix-Workstation
