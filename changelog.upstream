@@ -1,3 +1,33 @@
+commit f051fe78b043b2d1b7e9fe47d9a687dd3e69c5ac
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 21 17:44:27 2016 +0000
+
+    readme
+
+commit b08ea9bf4cc6ffaa50c28db276fec776eb091bf3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Aug 14 16:35:36 2016 +0000
+
+    comment
+
+commit 4d01388a0607aebf6ac9a93a64ff989603aa323e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Aug 14 18:32:56 2016 +0200
+
+    comment
+
+commit a186d2118ff5803d1c5584d8904acd6e690764c9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Aug 14 18:18:24 2016 +0200
+
+    fix dependencies
+
+commit 807f1e65eb6517d30344886dfb51bb87c25d87a0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 22 23:12:47 2015 +0000
+
+    bumped changelog version
+
 commit 4b840887571687c3f02ec781eef92f0f1b8308ce
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Sep 7 11:13:51 2015 +0000
