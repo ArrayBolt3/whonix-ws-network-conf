@@ -1,3 +1,18 @@
+commit b914e90328b5b6924c8c0c47449faf2b6fe9bc06
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jan 20 17:41:21 2017 +0100
+
+    Disable Predictable Network Interface Names as these are problematic.
+    https://forums.whonix.org/t/whonix-14-0-0-0-7-developers-only/3449/4
+    Disabling them as per
+    'zless /usr/share/doc/udev/README.Debian.gz'.
+
+commit f038960446cd86da7ddfd529a18cf1510351fc01
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 15:40:50 2017 +0000
+
+    bumped changelog version
+
 commit e01ecf5cb528a8691ba78387b8cda6b6b53f98b4
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sun Jan 15 08:35:55 2017 +0100
