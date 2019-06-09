@@ -1,3 +1,15 @@
+commit 2c21475948358df9def71014bee75dcbbe7f3118
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jun 8 00:05:39 2019 -0400
+
+    fix debian/watch lintian warning debian-watch-contains-dh_make-template
+
+commit f6b35217097ea8e5d35cbf3e7b0fd0805d2c556e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 24 21:09:22 2019 +0000
+
+    bumped changelog version
+
 commit d5c6ffbde0d18b76cc7e23377499e5956915c7e3
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri May 24 12:29:15 2019 -0400
