@@ -1,3 +1,15 @@
+commit 7d62fff99851560f44ed15c1c7fcdd3968c85fe4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 13 14:23:49 2019 +0000
+
+    Replaces: kicksecure-network-conf
+
+commit 8a95567a7dbcb3a0294e6cae6d7d3b5db15524fa
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 1 12:18:13 2019 +0000
+
+    bumped changelog version
+
 commit 41bac1cf01c047fde08237307bb4b5a0e907017f
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Aug 1 11:13:50 2019 +0000
