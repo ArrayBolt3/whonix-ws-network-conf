@@ -6,7 +6,8 @@
 #### category networking
 #### non_qubes_whonix_only yes
 #### workstation_only yes
-#### description network interfaces configuration eth0 to communicate with Whonix-Gateway
+#### description
+## network interfaces configuration eth0 to communicate with Whonix-Gateway
 #### meta end
 
 ## for more information see interfaces(5)
