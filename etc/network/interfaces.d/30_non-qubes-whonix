@@ -8,6 +8,12 @@
 #### workstation_only yes
 #### description
 ## network interfaces configuration eth0 to communicate with Whonix-Gateway
+##
+## static network configuration
+##
+#address 10.152.152.11
+#netmask 255.255.192.0
+#gateway 10.152.152.10
 #### meta end
 
 ## for more information see interfaces(5)
