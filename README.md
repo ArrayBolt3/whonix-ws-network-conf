@@ -4,6 +4,15 @@ Includes /etc/network/interfaces for Whonix-Workstation.
 
 Sets up an internal network interface eth0.
 
+DNS configuration Anonymity Linux Distribution Workstations
+Whether a Anonymity Linux Distribution Gateway supports anonymized system DNS
+for Workstation's traffic (also known as Transparent DNS Proxy) mainly depends
+on the Gateway's firewall.
+
+This package is simply installing /etc/resolv.conf which points to
+10.152.152.10, where an Anon-Gateway is supposed to provide a DnsPort on port
+53.
+
 Currently relevant for Non-Qubes-Whonix only.
 ## How to install `whonix-ws-network-conf` using apt-get ##
 
