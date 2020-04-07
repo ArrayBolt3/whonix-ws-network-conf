@@ -1,3 +1,39 @@
+commit 423445901c92153028f5a481744165b0d5449eaf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 13:08:42 2020 +0000
+
+    readme
+
+commit 6f9db22527cd6747a0793cf7e6d4007f7d95d985
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 13:04:51 2020 +0000
+
+    rm_conffile /etc/resolv.conf.anondist
+
+commit f43dafbceb08208689de82d8b748423a4fa26620
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 13:03:28 2020 +0000
+
+    fix, anondist -> whonix
+
+commit 219fa9442dc61acdfafffb0bb111f409cd1d77c4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 13:02:16 2020 +0000
+
+    fix, renamed:    etc/resolv.conf.anondist -> etc/resolv.conf.whonix
+
+commit 0b4b28142ac1570961397af990ee39f91de2efce
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 12:59:41 2020 +0000
+
+    import from anon-ws-dns-conf
+
+commit 66c1587d5e9f988077e9bc0655bb79da2bb647e3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 08:14:41 2020 -0400
+
+    bumped changelog version
+
 commit 9c92d0bb18f2406a4cc896bcb19cb74712bd80db
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 2 07:23:10 2020 -0400
