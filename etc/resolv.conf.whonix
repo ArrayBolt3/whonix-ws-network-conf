@@ -9,4 +9,5 @@
 ## This works different in Qubes-Whonix.
 #### meta end
 
+## IP HARDCODED unfortunately.
 nameserver 10.152.152.10

@@ -29,6 +29,6 @@ Description: Network Configuration for Whonix-Workstation
  .
  This package is simply installing /etc/resolv.conf which points to
  10.152.152.10, where an Anon-Gateway is supposed to provide a DnsPort on port
- 53.
+ 53. IP HARDCODED but no need to change because only description.
  .
  Currently relevant for Non-Qubes-Whonix only.

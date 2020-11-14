@@ -11,6 +11,7 @@
 ##
 ## static network configuration
 ##
+## IP HARDCODED but not need to change since only comment.
 #address 10.152.152.11
 #netmask 255.255.192.0
 #gateway 10.152.152.10
@@ -33,6 +34,7 @@ auto eth0
 iface eth0 inet static
        ## Increment last octet of address
        ## on optional additional workstations.
+       ## IP HARDCODED unfortunately.
        address 10.152.152.11
        netmask 255.255.192.0
        gateway 10.152.152.10
