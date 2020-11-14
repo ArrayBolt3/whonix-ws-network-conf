@@ -11,12 +11,12 @@ on the Gateway's firewall.
 
 This package is simply installing /etc/resolv.conf which points to
 10.152.152.10, where an Anon-Gateway is supposed to provide a DnsPort on port
-53.
+53. IP HARDCODED but no need to change because only description.
 
 Currently relevant for Non-Qubes-Whonix only.
 ## How to install `whonix-ws-network-conf` using apt-get ##
 
-1\. Download [Whonix's Signing Key]().
+1\. Download Whonix's Signing Key.
 
 ```
 wget https://www.whonix.org/patrick.asc
