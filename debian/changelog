@@ -1,3 +1,9 @@
+whonix-ws-network-conf (3:3.3-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Sat, 14 Nov 2020 16:59:54 +0000
+
 whonix-ws-network-conf (3:3.2-1) unstable; urgency=medium
 
   * New upstream version (local package).
